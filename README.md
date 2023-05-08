@@ -1,4 +1,4 @@
-# ES3A3 (2023)
+# ES3A3 
 Repositório dedicado ao aprendizado da disciplina de Engenharia III. 
 
 <h2>Conceitos</h2>
