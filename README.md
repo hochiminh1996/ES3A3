@@ -18,5 +18,4 @@ Segundo o livro "Design Patters" da GOF (Gang of Four), há 23 padrões de proje
 
 <strong> IHC</strong>
 
-
 ...
