@@ -17,6 +17,6 @@ Segundo o livro "Design Patters" da GOF (Gang of Four), há 23 padrões de proje
 - Padrões Estruturais: Facade e Adapter
 
 <strong> IHC</strong>
-IHC é uma disciplina interessada no projeto, implementação e avaliação de sistemas computacionais interativos para uso humano, juntamente com os fenômenos relacionados a esse uso.
+<p>IHC é uma disciplina interessada no projeto, implementação e avaliação de sistemas computacionais interativos para uso humano, juntamente com os fenômenos relacionados a esse uso.</p>
 
 ...
