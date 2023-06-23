@@ -9,14 +9,14 @@ Repositório dedicado ao aprendizado da disciplina de Engenharia III.
 * <strong>Modelo de Desenvolvimento de Software</strong>: é uma abordagem utilizada para a construção do software, definindo cronograma, atividades e etapas. Podendo utilizar o modelos como : cascata, RAD, XP e ágil. 
 * <strong>Arquitetura de software</strong>: é a forma ou organização dos componentes dentro do software, e a maneira que eles interagem entre si. Um exemplo, é a arquitetura MVC, SOA, Repositório e etc.
 
-<Strong>Design Patterns:</strong> 
+<Strong><h2>Design Patterns:</h2></strong> 
 
 Segundo o livro "Design Patters" da GOF (Gang of Four), há 23 padrões de projeto (Design patters). Os mais conhecidos são :
 - Padrões de Comportamento: Observer
 - Padrões de Criação: Singleton e Factory
 - Padrões Estruturais: Facade e Adapter
 
-<strong> IHC</strong>
+<strong><h2> IHC</h2></strong>
 <p>IHC é uma disciplina interessada no projeto, implementação e avaliação de sistemas computacionais interativos para uso humano, juntamente com os fenômenos relacionados a esse uso.</p>
 
 ...
