@@ -1,5 +1,5 @@
 # ES3A3 
-Repositório dedicado ao aprendizado da disciplina de Engenharia III. 
+Repositório dedicado ao aprendizado da disciplina de Engenharia III com o professor Leonardo Bertholdo. 
 
 <h2>Conceitos</h2>
 
