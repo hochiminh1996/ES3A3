@@ -20,5 +20,3 @@ Segundo o livro "Design Patters" da GOF (Gang of Four), há 23 padrões de proje
 <p>IHC é uma disciplina interessada no projeto, implementação e avaliação de sistemas computacionais interativos para uso humano, juntamente com os fenômenos relacionados a esse uso.</p>
 
 <p>IHC é uma área multidisciplinar que se beneficia de conhecimentos e métodos de outras áreas, fora da Computação, para conhecer melhor os fenômenos que envolvem o uso de sistemas interativos. Áreas como psicologia, semiótica, sociologia, antropologia, constribuem para a aquisição de conhecimento sobre a cultura dos usuários</p>
-
-...
