@@ -23,7 +23,7 @@ Segundo o livro "Design Patters" da GOF (Gang of Four), há 23 padrões de proje
 
 
 
-<h3>Relacionamentos entre objetos</h3>
+<h2>Relacionamentos entre objetos</h2>
 	
 	
 * <strong>Associação:</strong> É uma forma de relacionamento entre objetos em que o objeto (todo) pode estar apenas associado a um objeto (parte), segundo a definição do professor : "Na associação, o objeto (todo) só pode estar associado a um único objeto (parte)". Além disso, esses objetos também são independentes entre si. Por exempo, duas classes : Pessoa e Cidade. Nesse cenário, uma pessoa (todo) pode ter residência em APENAS UMA cidade. Se, porventura, uma pessoa tiver residência em mais de uma cidade, esse relacionamento se torna uma agregação, não mais uma associação. 
@@ -59,5 +59,5 @@ Diferenças:
 
 <p align="justify">Na associação, os objetos são independentes e podem existir separadamente, enquanto na composição os objetos parte são componentes essenciais do objeto todo e na agregação os objetos parte podem existir independentemente do objeto todo.
 Na composição, a existência do objeto parte está fortemente ligada ao objeto todo, e se o objeto todo for excluído, os objetos parte também serão. Na agregação, os objetos parte podem existir independentemente do objeto todo e não são excluídos quando o objeto todo é excluído.
-Na composição, a criação e gerenciamento dos objetos parte são responsabilidade do objeto todo. Na agregação, os objetos parte podem ser criados separadamente e associados ao objeto todo por meio de métodos específicos.A composição é uma relação mais forte e mais restritiva do que a agregação.</p>
+Na composição, a criação e gerenciamento dos objetos parte são responsabilidade do objeto todo. Na agregação, os objetos parte podem ser criados separadamente e associados ao objeto todo por meio de métodos específicos. A composição é uma relação mais forte e mais restritiva do que a agregação.</p>
 
