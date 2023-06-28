@@ -10,8 +10,7 @@ Repositório dedicado ao aprendizado da disciplina de Engenharia III com o profe
 * <strong>Arquitetura de software</strong>: é a forma ou organização dos componentes dentro do software, e a maneira que eles interagem entre si. Um exemplo, é a arquitetura MVC, SOA, Repositório e etc.
 
 <Strong><h2>Design Patterns (Padrões de Projeto):</h2></strong> 
-
-Segundo o livro "Design Patters" da GOF (Gang of Four), há 23 padrões de projeto (Design patters). Os mais conhecidos são :
+Padrão de Projeto: descreve uma abordagem de sucesso, amplamente testada, para um determinado problema. Possibilitando o reúso desse padrão em outros projetos. Afinal, na maioria dos casos, não é necessário “reinventar a roda”. Segundo o livro "Design Patters" da GOF (Gang of Four), há 23 padrões de projeto (Design patters). Os mais conhecidos são :
 - Padrões de Comportamento: Observer
 - Padrões de Criação: Singleton e Factory
 - Padrões Estruturais: Facade e Adapter
