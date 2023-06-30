@@ -1,3 +1,5 @@
 Prova 01 : Padrões de Projeto (MVC, Web Services, SOA, Dutos e Filtros), Separação por interesse, Modularidade, Projeto de Software.
 
 Prova 02 : Design Patterns (Singleton, Factory, Adapter, Java EE), IHC ( Análise de Tarefas, Métodos de avaliação, Propostas para Design : Engenharia de Usabilidade de Nielsen, Design Baseado em Cenários, Objetivos, Conextual e Estrela ) ORM (associação, composição e agregação).
+
+A prova contém muito conteúdo específico, especialmente na segunda.
